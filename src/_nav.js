@@ -10,6 +10,11 @@ export default {
       }
     },
     {
+      name: 'Firstpage',
+      url: '/firstpage',
+      icon: 'icon-home'
+    },
+    {
       title: true,
       name: 'Theme',
       class: '',
