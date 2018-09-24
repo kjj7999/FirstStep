@@ -8,11 +8,15 @@ import Vue from 'vue'
 import BootstrapVue from 'bootstrap-vue'
 import App from './App'
 import router from './router'
+//import VueRippler from 'vue-rippler'
+//import Ripple from 'vue-ripple-directive'
 
 // todo
 // cssVars()
 
 Vue.use(BootstrapVue)
+//Vue.use(VueRippler)
+//Vue.directive('ripple', Ripple);
 
 /* eslint-disable no-new */
 new Vue({
